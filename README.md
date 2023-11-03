@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @marialuizaavils
-- 👀 I’m interested in programmer
-- 🌱 I’m currently learning future developer
+- 👀 I’m interested in engineer software 
+- 🌱 I’m currently learning future developer In software
 - 💞️ I’m looking to collaborate on ads
-- 📫 How to reach me conecte, by
+- 📫 How to reach me on LinkedI 
 
 <!---
 marialuizaavils/marialuizaavils is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
