@@ -1,4 +1,4 @@
-## Olá eu sou a marialuizaaviles 👩‍💻
+## Olá eu sou a marialuizaaviles publíco contéudos sobre tecnologia em minhas redes👩‍💻
 
 - 👀 trabalho como Desenvolvedora Front end.
 - 👩‍💻 Estudo desenvolvedor Fullstack (Python e Java) e ADS.
