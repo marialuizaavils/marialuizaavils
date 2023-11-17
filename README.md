@@ -1,7 +1,7 @@
 ## Olá eu sou a marialuizaaviles 👩‍💻
 
 - 👀 trabalho como Desenvolvedora WEB
-- 👩‍💻 Estudo desenvolvedor Fullstack (Python e Java) e ADS pela estacío.
+- 👩‍💻 Estudo desenvolvedor Fullstack (Python e Java) e ADS.
 - 👧 Ela/dela 
 - 📫 Me sigam no LinkedIn - https://www.linkedin.com/in/maria-luiza-805699191/
 
