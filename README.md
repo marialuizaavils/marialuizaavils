@@ -1,8 +1,7 @@
-## Olá eu sou a marialuizaaviles publíco contéudos sobre tecnologia em minhas redes👩‍💻
+## Hello, I'm marialuizaavils and I publish content about technology on my networks.👩‍💻
 
-- 👀 trabalho como Desenvolvedora Front end.
-- 👩‍💻 Estudo desenvolvedor Fullstack (Python e Java) e ADS.
-- 👧 Ela/dela 
+- 👀 I work as a front-end developer.
+- 👩‍💻 Study Fullstack developer (Python and Java) and Analyst and systems development.
 - 📫 Me sigam no LinkedIn - https://www.linkedin.com/in/maria-luiza-805699191/
 
 <div style="display: inline_block"><br>
