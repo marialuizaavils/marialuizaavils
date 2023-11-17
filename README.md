@@ -28,5 +28,5 @@
 
 ##
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marialuizasilva&show_icons=true&theme=synthwave)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marialuizasilva&show_icons=false&theme=synthwave)
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marialuizasilvas&show_icons=false&bg_color=00000000)
