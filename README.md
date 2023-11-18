@@ -1,7 +1,7 @@
 ## Hello, I'm marialuizaavils and I publish content about technology on my networks.👩‍💻
 
 - 👀 I work as a front-end developer.
-- 👩‍💻 Study Fullstack developer (Python and Java) and Analyst and systems development.
+- 👩‍💻 Study Fullstack developer (Python and Java) and Analyst and systems development with a focus on software quality.
 - 📫 Me sigam no LinkedIn - https://www.linkedin.com/in/maria-luiza-805699191/
 
 <div style="display: inline_block"><br>
