@@ -1,4 +1,4 @@
-## Hello, I'm marialuizaavils and I publish content about technology on my networks.👩‍💻
+## Hello, I'm marialuizaavils and I'm a software engineer.👩‍💻
 
 - 👀 I work as a front-end developer.
 - 👩‍💻 Study Fullstack developer (Python and Java) and Analyst and systems development with a focus on software quality.
