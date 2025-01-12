@@ -1,7 +1,7 @@
 ## Hello, I'm marialuizaavils and I'm a software engineer.👩‍💻
 
 - 👀 I work as a Software developer.
-- 👩‍💻 Study Fullstack developer (Python and Java) and Analyst and systems development with a focus on software quality.
+- 👩‍💻 Study Fullstack developer and frameworks.
 - 📫 Me sigam no LinkedIn - https://www.linkedin.com/in/maria-luiza-805699191/
 
 <div style="display: inline_block"><br>
