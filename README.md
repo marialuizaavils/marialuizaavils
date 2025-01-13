@@ -1,7 +1,7 @@
-## Hello, I'm marialuizaavils and I'm a software engineer.👩‍💻
+## Hello, My name is Maria Luiza.
 
 - 👀 I work as a Software developer.
-- 👩‍💻 Study Fullstack developer and frameworks.
+- 👩‍💻 Study web development.
 - 📫 Me sigam no LinkedIn - https://www.linkedin.com/in/maria-luiza-805699191/
 
 <div style="display: inline_block"><br>
@@ -12,6 +12,7 @@
   <img align="center" alt="Maria-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Maria-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Maria-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Maria-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
 </div>
 
 
