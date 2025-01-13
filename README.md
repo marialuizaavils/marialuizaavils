@@ -1,5 +1,5 @@
 ## Hello, My name is Maria Luiza.
-## (Java | Python| React JS | Angular | Typescript | Javascript | HTML | CSS ) 🚀
+ (Java | Python| React JS | Angular | Typescript | Javascript | HTML | CSS ) 🚀
 
 - 👀 I work as a Software developer.
 - 👩‍💻 Study web development.
