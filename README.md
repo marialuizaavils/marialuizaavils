@@ -3,7 +3,6 @@
 
 - 👀 I work as a Software developer.
 - 👩‍💻 Study web development.
-- 📫 Me sigam no LinkedIn - https://www.linkedin.com/in/maria-luiza-805699191/
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Maria-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">    
@@ -22,7 +21,7 @@
 
 <div> 
   <a href="https://www.youtube.com/channel/UCkfDWJr7oyDlA4JdfGncXgA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="[https://instagram.com/_devmalu](https://www.instagram.com/_marialuizadiass?igsh=Z2ZqbzVhbGYyeGhp&utm_source=qr)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- 
+  <a href="[https://www.instagram.com/_marialuizadiass?igsh=Z2ZqbzVhbGYyeGhp&utm_source=qr)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- 
      badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://marialuizads.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maria-luiza-805699191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
